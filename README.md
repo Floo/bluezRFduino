@@ -1,4 +1,4 @@
-pyRFduino
+bluezRFduino
 =========
 
-Python sourcecode an modules for communication with RFduino using Bluetooth and Bluez library
+Using Bluetooth and Bluez library to connect to RFduino
